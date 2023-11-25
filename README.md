@@ -1,14 +1,14 @@
 # Gigabyte-H110m-ds2-GT-220-Ventura
 EFI for main Gigabyte H110m, Nvidia GT 220, Ventura
+<br>
+<strong>This my Hackintosh PC </strong><br>
+Main: <i>Gigabyte H110m ds2</i><br>
+CPU: <i>i3 6100</i><br>
+RAM: <i>8Gb</i><br>
+SSD: <i>Westen 120Gb</i><br>
+VGA: <i>Nvidia GT 220 (Nvidia Tesla)</i><br>
 
-This my Hackintosh PC
-Main: Gigabyte H110m ds2
-CPU: i3 6100
-RAM: 8Gb
-SSD: Westen 120Gb
-VGA: Nvidia GT 220 (Nvidia Tesla)
-
-After add EFI, Need install Opencore Legacy Patcher.
-Remember config BIOS
-VGA: PCI01
+After add EFI, Need install Opencore Legacy Patcher.<br>
+Remember config BIOS<br>
+VGA: <i>PCI01</i><br>
 Thanks!
